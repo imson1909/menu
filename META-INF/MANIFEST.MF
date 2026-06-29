@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: tacticaltablet
+Specification-Vendor: makar
+Specification-Version: 1
+Implementation-Title: Tactical Tablet
+Implementation-Version: 0.1
+Implementation-Vendor: makar
+Implementation-Timestamp: 2026-06-28T11:36:55+0200
+
